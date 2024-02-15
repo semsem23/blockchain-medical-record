@@ -1,0 +1,33 @@
+form input {
+    /* Base styles for all inputs */
+    display: block;
+    width: 20%;
+    padding: 0.5rem 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+  }
+  
+  /* Customize styles for specific inputs (optional) */
+  form input[type="number"] {
+    /* Styles for number inputs */
+  }
+  
+  form input[type="date"] {
+    /* Styles for date inputs */
+  }
+  
+  button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 10%;
+  }
+  
+  button:hover {
+    opacity: 0.8;
+  }
+  

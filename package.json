@@ -1,0 +1,24 @@
+{
+  "name": "medicalrecord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.5"
+  },
+  "dependencies": {
+    "@web3-react/core": "^8.2.3",
+    "ethers": "^6.10.0",
+    "react-router-dom": "^6.22.0",
+    "semantic-ui-css": "^2.5.0",
+    "semantic-ui-react": "^2.1.5"
+  }
+}

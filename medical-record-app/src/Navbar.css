@@ -1,0 +1,29 @@
+/* Navbar styles */
+.topnav {
+  background-color: #343a40; /* Change background color as desired */
+  color: #fff; /* Change text color as desired */
+  display: flex;
+  justify-content: start;
+  padding: 1rem;
+}
+
+.topnav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.topnav li {
+  display: inline-block;
+  margin-right: 1rem;
+}
+
+.topnav a {
+  text-decoration: none;
+  color: inherit;
+  font-weight: bold;
+}
+
+.topnav a:hover {
+  color: #ddd; /* Change hover color as desired */
+}
